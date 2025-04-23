@@ -14,12 +14,9 @@ Welcome to my GitHub profile! I'm passionate about creating innovative solutions
 - **Founding Customer Account Manager**, Factor.io  
   Sales and Customer Success leader skilled in onboarding, nurturing, and expanding customer relationships. Joined the company at its early stages with no paying customers and grew the customer base through strategic sales and customer success efforts. Generated $571.6k in qualified ARR for 2023 by identifying opportunities and driving expansion across enterprise accounts. Acted as a customer advocate, collaborating cross-functionally with product, marketing, and design teams to define ideal customer profiles and align solutions with market needs. Developed 10+ high-impact sales and customer success resources, including case studies and enablement content, leading to an increase in customer engagement.
 
-Led the customer journey from pre-sale to post-sale using HubSpot, ensuring seamless collaboration and transparency across teams. Evaluated software solutions to optimize success strategies and presented key recommendations to the executive team. Stepped into an interim Head of Sales role, leading sales and customer success initiatives during a critical growth phase, and mentoring new team members. Actively engaged with customers and industry leaders at key conferences like IME and ATX, strengthening client relationships and staying at the forefront of industry trends.
-
 - **Account Executive**, SPS Commerce  
   Sales leader with expertise in strategic account management, revenue growth, and relationship building. Managed a portfolio of 800 vendor accounts in Southern California before being promoted to oversee 1,600 accounts in Quebec, including existing, churned, and competitor clients. Drove revenue growth by identifying upsell opportunities, particularly ERP integrations with cloud-based EDI technology, and strengthening customer relationships through proactive check-ins and tailored solutions.
 
-Leveraged Salesforce for reporting and territory management, consistently uncovering growth opportunities within existing accounts and new prospects. Targeted companies experiencing system disruptions or outdated technology, capitalizing on competitor challenges and industry shifts. Developed and maintained channel partnerships that contributed to a steady pipeline of qualified leads and new business opportunities.
 
 ## 🛠️ Skills
 
