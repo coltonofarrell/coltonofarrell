@@ -30,11 +30,11 @@ Welcome to my GitHub profile! I'm passionate about creating innovative solutions
 
 ## 📫 How to Reach Me
 
-- LinkedIn: Your LinkedIn Profile URL](https://www.linkedin.com/in/coltonofarrell/)
+- LinkedIn: https://www.linkedin.com/in/coltonofarrell/
 - Email: coltonleeofarrell@gmail.com
 
 Feel free to explore my repositories and reach out if you'd like to collaborate!
 
 ---
 
-⭐️ From [Colton O'Farrell](https://github.com/coltonofarrell)
+⭐️ From Colton O'Farrell https://github.com/coltonofarrell
