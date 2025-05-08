@@ -27,7 +27,7 @@ I'm a Chicago-based Customer Success leader turned tech learner, passionate abou
 - **CRM & Customer Success:** Salesforce, HubSpot, and Gainsight
 - **Programming Languages:** Python, SQL (basic familiarity from courses and professional experience)
 - **Sales Prospecting and Engagement:** Apollo, Groove, HubSpot Sequences, LinkedIn Sales Navigator, Mixmax, Outreach, Orum, Snov.io, and ZoomInfo
-- **Version Control & Collaboration:** GitHu
+- **Version Control & Collaboration:** GitHub
 
 ## 📜 LinkedIn Learning Certifications
 - Data Visualization for Data Analysis and Analytics
@@ -35,7 +35,7 @@ I'm a Chicago-based Customer Success leader turned tech learner, passionate abou
 - Introduction to Artifical Intelligence
 - Learning Git and GitHub
 - SQL for Non-Programmers
-- Understand SQL: Explore the Power and Versatility of the SQL Database Language
+-_ Understand SQL: Explore the Power and Versatility of the SQL Database Language_
 
 ## 🧑‍🚀 Postman Certifications
 - API Beginner Learning Path
