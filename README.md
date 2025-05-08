@@ -5,7 +5,7 @@ I'm a Chicago-based Customer Success leader turned tech learner, passionate abou
 ## 🔍 About Me
 
 - 🌟 **Professional Background**: Account management and customer success professional with 5+ years of experience in the SaaS and tech industries, specializing in vendor compliance, EDI, API integrations, and driving customer adoption and retention.
-- 🎓 **Education**: Bachelor's degree in Political Science from the University of Minnesota Twin Cities. Completed a series of LinkedIn Learning courses on Artificial Intelligence and other technical skills to upskill and stay competitive in the tech field.
+- 🎓 **Education**: Bachelor's degree in Political Science from the University of Minnesota Twin Cities.
 - 🚀 **Interests**: Passionate about customer success, technology, and product-led growth. Interested in expanding expertise in API technology, automation, and optimizing customer journeys.
 - 🌎 **Location**: Based in Chicago, Illinois.
 
