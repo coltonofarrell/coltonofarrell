@@ -30,15 +30,15 @@ I'm a Chicago-based Customer Success leader turned tech learner, passionate abou
 - **Version Control & Collaboration:** GitHub
 
 ## 📜 LinkedIn Learning Certifications
-- Data Visualization for Data Analysis and Analytics
-- Data Science Foundations: Fundamentals
-- Introduction to Artifical Intelligence
-- Learning Git and GitHub
-- SQL for Non-Programmers
--_ Understand SQL: Explore the Power and Versatility of the SQL Database Language_
+- *Data Visualization for Data Analysis and Analytics*
+- *Data Science Foundations: Fundamentals*
+- *Introduction to Artificial Intelligence*
+- *Learning Git and GitHub*
+- *SQL for Non-Programmers*
+- *Understand SQL: Explore the Power and Versatility of the SQL Database Language*
 
 ## 🧑‍🚀 Postman Certifications
-- API Beginner Learning Path
+- *API Beginner Learning Path*
 
 ## 🌱 Currently Learning
 
