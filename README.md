@@ -1,13 +1,6 @@
 # Hi there, I'm Colton O'Farrell 👋
 
-## 📌 Table of Contents
-- [About Me](#about-me)
-- [Experience](#experience)
-- [Skills](#skills)
-- [Currently Learning](#currently-learning)
-- [How to Reach Me](#how-to-reach-me)
-
-Welcome to my GitHub profile! I'm passionate about creating innovative solutions and contributing to projects that make a difference. Here's a bit about me:
+I'm a Chicago-based Customer Success leader turned tech learner, passionate about blending soft skills with hard tech. I’m currently diving deeper into APIs, SQL, and cybersecurity — all to better serve SaaS users and solve real-world problems with smarter tools.
 
 ## 🔍 About Me
 
@@ -24,16 +17,28 @@ Welcome to my GitHub profile! I'm passionate about creating innovative solutions
 - **Account Executive**, SPS Commerce  
   Sales leader with expertise in strategic account management, revenue growth, and relationship building. Managed a portfolio of 800 vendor accounts in Southern California before being promoted to oversee 1,600 accounts in Quebec, including existing, churned, and competitor clients. Drove revenue growth by identifying upsell opportunities, particularly ERP integrations with cloud-based EDI technology, and strengthening customer relationships through proactive check-ins and tailored solutions.
 
-
 ## 🛠️ Skills
 
 - Programming Languages: Python, SQL (basic familiarity from courses and professional experience).
 - Tools and Frameworks: Postman, Salesforce, Gainsight, GitHub, LinkedIn Learning (AI courses), and various SaaS platforms focused on customer success management.
 - Other Skills: Customer success, account management, vendor compliance, EDI integration, API management, project management, strong communication skills, and data analysis for decision-making.
 
+## 📜 LinkedIn Learning Certifications
+- Introduction to Artifical Intelligence 
+- SQL for Non-Programmers
+- Understand SQL: Explore the Power and Versatility of the SQL Database Language
+- Data Visualization for Data Analysis and Analytics
+- Learning Git and GitHub
+
+## 📜 Postman Certifications
+- API Beginner Learning Path
+
 ## 🌱 Currently Learning
 
-- New technologies!
+- Cybersecurity
+- Git/GitHub workflows
+- Advanced API lifecycle management
+- Prompt engineering and AI tools
 
 ## 📫 How to Reach Me
 
