@@ -1,5 +1,12 @@
 # Hi there, I'm Colton O'Farrell 👋
 
+## 📌 Table of Contents
+- [About Me](#about-me)
+- [Experience](#experience)
+- [Skills](#skills)
+- [Currently Learning](#currently-learning)
+- [How to Reach Me](#how-to-reach-me)
+
 Welcome to my GitHub profile! I'm passionate about creating innovative solutions and contributing to projects that make a difference. Here's a bit about me:
 
 ## 🔍 About Me
