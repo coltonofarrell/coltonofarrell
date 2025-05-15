@@ -26,7 +26,7 @@ I'm a Chicago-based Customer Success leader turned tech learner, passionate abou
 - **API & Integration Tools:** Postman
 - **CRM & Customer Success:** Salesforce, HubSpot, and Gainsight
 - **Integrated Development Environment:** Visual Studio Code
-- **Programming Languages:** Python, SQL (basic familiarity from courses and professional experience)
+- **Programming Languages and Markup:** Python, SQL (basic familiarity), XML (used for mod development and data structuring)
 - **Sales Prospecting and Engagement:** Apollo, Groove, HubSpot Sequences, LinkedIn Sales Navigator, Mixmax, Outreach, Orum, Snov.io, and ZoomInfo
 - **Version Control & Collaboration:** GitHub
 
@@ -47,7 +47,7 @@ I'm a Chicago-based Customer Success leader turned tech learner, passionate abou
 - Cybersecurity
 - Git/GitHub workflows
 - Advanced API lifecycle management
-- Prompt engineering and AI tools
+- Prompt engineering and numerous AI tools
 
 ## 📫 How to Reach Me
 
