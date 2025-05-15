@@ -1,6 +1,6 @@
 # Hi there, I'm Colton O'Farrell 👋
 
-I'm a Chicago-based Sales and Customer Success leader turned tech learner, passionate about blending soft skills with hard tech. I’m currently diving deeper into APIs, SQL, and cybersecurity — all to better serve SaaS users and solve real-world problems with smarter tools.
+I'm a Chicago-based Sales and Customer Success leader turned tech learner, passionate about blending soft skills with hard tech. I’m currently diving deeper into AI, APIs, SQL, and cybersecurity — all to better serve SaaS users and solve real-world problems with smarter tools.
 
 ## 🔍 About Me
 
