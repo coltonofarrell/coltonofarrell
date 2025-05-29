@@ -27,6 +27,7 @@ I'm a Chicago-based Sales and Customer Success leader turned tech learner, passi
 - *Data Science Foundations: Fundamentals*
 - *Cybersecurity Foundations*
 - *Introduction to Artificial Intelligence*
+- *Introduction to Prompt Engineering for Generative AI*
 - *Learning Git and GitHub*
 - *SQL for Non-Programmers*
 - *Understand SQL: Explore the Power and Versatility of the SQL Database Language*
