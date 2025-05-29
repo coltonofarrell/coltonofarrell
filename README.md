@@ -23,6 +23,7 @@ I'm a Chicago-based Sales and Customer Success leader turned tech learner, passi
 - **Version Control & Collaboration:** GitHub
 
 ## 📜 LinkedIn Learning Certifications
+- *AI Productivity Hacks to Reimagine Your Workday and Career*
 - *Data Visualization for Data Analysis and Analytics*
 - *Data Science Foundations: Fundamentals*
 - *Cybersecurity Foundations*
