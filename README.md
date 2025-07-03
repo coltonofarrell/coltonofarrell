@@ -17,8 +17,9 @@ I'm a Chicago-based Sales and Customer Success leader turned tech learner, passi
 ## 🛠️ Tool Familiarity 
 - **API & Integration Tools:** Postman
 - **CRM & Customer Success:** Salesforce, HubSpot, Gainsight
+- **Data Analysis & SQL Editors:** PopSQL
 - **Integrated Development Environment:** Visual Studio Code, Windsurf
-- **Programming Languages and Markup:** Python, SQL (basic familiarity), XML (used for mod development and data structuring)
+- **Programming Languages and Markup:** Python, SQL, XML (used for mod development and data structuring)
 - **Sales Prospecting and Engagement:** Apollo, Groove, HubSpot Sequences, LinkedIn Sales Navigator, Mixmax, Nooks, Outreach, Orum, Snov.io, and ZoomInfo
 - **Version Control & Collaboration:** GitHub
 
