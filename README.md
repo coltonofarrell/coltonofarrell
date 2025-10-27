@@ -15,13 +15,15 @@ I'm a Chicago-based Sales and Customer Success leader turned tech learner, passi
 - **Soft Skills:** Strong communication, cross-functional collaboration, and stakeholder alignment
   
 ## 🛠️ Tool Familiarity 
-- **API & Integration Tools:** Postman and Gmail SMTP
+- **API & Integration Tools:** Postman, SendGrid, and Gmail SMTP
 - **CRM & Customer Success:** Salesforce, HubSpot, Gainsight, PostHog, Intercom
+- **Project & Workflow Management:** Asana, Linear
 - **Data Analysis & SQL Editors:** PopSQL
 - **Integrated Development Environment:** Visual Studio Code and Windsurf
 - **Programming Languages and Markup:** Python, SQL, XML (used for mod development and data structuring)
-- **Sales Prospecting and Engagement:** Apollo, Groove, HubSpot Sequences, LinkedIn Sales Navigator, Mixmax, Nooks, Outreach, Orum, Snov.io, and ZoomInfo
+- **Sales Prospecting and Engagement:** Apollo, Clay, Groove, HubSpot Sequences, LinkedIn Sales Navigator, Mixmax, Nooks, Outreach, Orum, Snov.io, and ZoomInfo
 - **Version Control & Collaboration:** GitHub and Notion
+- **Video & Demo Tools:** Screen Studio
 
 ## 📜 LinkedIn Learning Certifications
 - *AI Productivity Hacks to Reimagine Your Workday and Career*
